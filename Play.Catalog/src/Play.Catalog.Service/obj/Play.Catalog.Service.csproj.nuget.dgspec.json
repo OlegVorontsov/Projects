@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
     "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Projects\\Play.Catalog\\src\\play.catalog.service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

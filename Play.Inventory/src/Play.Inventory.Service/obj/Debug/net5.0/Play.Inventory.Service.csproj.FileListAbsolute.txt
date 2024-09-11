@@ -75,3 +75,4 @@ C:\Users\admin\Projects\Play.Inventory\src\play.inventory.service\bin\Debug\net5
 C:\Users\admin\Projects\Play.Inventory\src\play.inventory.service\bin\Debug\net5.0\System.Text.Encodings.Web.dll
 C:\Users\admin\Projects\Play.Inventory\src\play.inventory.service\bin\Debug\net5.0\System.Text.Json.dll
 C:\Users\admin\Projects\Play.Inventory\src\play.inventory.service\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\admin\Projects\Play.Inventory\src\play.inventory.service\obj\Debug\net5.0\Play.Inventory.Service.sourcelink.json

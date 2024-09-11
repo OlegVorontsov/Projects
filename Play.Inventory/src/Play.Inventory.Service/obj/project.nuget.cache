@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ulzIkc0ROKFMAo52FF6U2jbvEiVdCQ5bNwkDHz+9sQG8GYClUiRYeLweK2JsDJMEu4NzREUnWovLJzu06NX/A==",
+  "dgSpecHash": "mJTQsduAHpVdUEH1IcsrDNeoJ8cqt4aFB4lgbK+h85GkoP+xjWOERnMSoFx3a3JYOzYf52gojXmJWqUXEKg10w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Projects\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Projects\\Play.Inventory\\src\\play.inventory.service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
